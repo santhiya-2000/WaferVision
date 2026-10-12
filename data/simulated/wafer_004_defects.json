@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "type": "particle",
+    "position": [
+      227,
+      151
+    ],
+    "size": 14,
+    "severity": 0.7
+  },
+  {
+    "id": 1,
+    "type": "missing_feature",
+    "position": [
+      312,
+      284
+    ],
+    "size": 10,
+    "severity": 0.6666666666666666
+  },
+  {
+    "id": 2,
+    "type": "particle",
+    "position": [
+      181,
+      197
+    ],
+    "size": 10,
+    "severity": 0.5
+  },
+  {
+    "id": 3,
+    "type": "missing_feature",
+    "position": [
+      266,
+      237
+    ],
+    "size": 6,
+    "severity": 0.4
+  },
+  {
+    "id": 4,
+    "type": "scratch",
+    "position": [
+      349,
+      353
+    ],
+    "length": 15,
+    "severity": 0.3
+  },
+  {
+    "id": 5,
+    "type": "missing_feature",
+    "position": [
+      199,
+      246
+    ],
+    "size": 9,
+    "severity": 0.6
+  },
+  {
+    "id": 6,
+    "type": "pattern_error",
+    "position": [
+      153,
+      292
+    ],
+    "size": 28,
+    "severity": 0.9333333333333333
+  },
+  {
+    "id": 7,
+    "type": "missing_feature",
+    "position": [
+      240,
+      238
+    ],
+    "size": 5,
+    "severity": 0.3333333333333333
+  },
+  {
+    "id": 8,
+    "type": "missing_feature",
+    "position": [
+      240,
+      445
+    ],
+    "size": 9,
+    "severity": 0.6
+  },
+  {
+    "id": 9,
+    "type": "missing_feature",
+    "position": [
+      172,
+      150
+    ],
+    "size": 13,
+    "severity": 0.8666666666666667
+  },
+  {
+    "id": 10,
+    "type": "scratch",
+    "position": [
+      79,
+      238
+    ],
+    "length": 10,
+    "severity": 0.2
+  },
+  {
+    "id": 11,
+    "type": "scratch",
+    "position": [
+      118,
+      192
+    ],
+    "length": 28,
+    "severity": 0.56
+  },
+  {
+    "id": 12,
+    "type": "pattern_error",
+    "position": [
+      319,
+      243
+    ],
+    "size": 23,
+    "severity": 0.7666666666666667
+  },
+  {
+    "id": 13,
+    "type": "particle",
+    "position": [
+      284,
+      147
+    ],
+    "size": 9,
+    "severity": 0.45
+  },
+  {
+    "id": 14,
+    "type": "scratch",
+    "position": [
+      329,
+      276
+    ],
+    "length": 18,
+    "severity": 0.36
+  },
+  {
+    "id": 15,
+    "type": "scratch",
+    "position": [
+      446,
+      264
+    ],
+    "length": 45,
+    "severity": 0.9
+  },
+  {
+    "id": 16,
+    "type": "pattern_error",
+    "position": [
+      246,
+      266
+    ],
+    "size": 24,
+    "severity": 0.8
+  },
+  {
+    "id": 17,
+    "type": "pattern_error",
+    "position": [
+      368,
+      405
+    ],
+    "size": 27,
+    "severity": 0.9
+  },
+  {
+    "id": 18,
+    "type": "pattern_error",
+    "position": [
+      98,
+      226
+    ],
+    "size": 20,
+    "severity": 0.6666666666666666
+  },
+  {
+    "id": 19,
+    "type": "missing_feature",
+    "position": [
+      216,
+      264
+    ],
+    "size": 5,
+    "severity": 0.3333333333333333
+  },
+  {
+    "id": 20,
+    "type": "pattern_error",
+    "position": [
+      174,
+      119
+    ],
+    "size": 14,
+    "severity": 0.4666666666666667
+  },
+  {
+    "id": 21,
+    "type": "scratch",
+    "position": [
+      209,
+      68
+    ],
+    "length": 23,
+    "severity": 0.46
+  },
+  {
+    "id": 22,
+    "type": "missing_feature",
+    "position": [
+      302,
+      270
+    ],
+    "size": 5,
+    "severity": 0.3333333333333333
+  }
+]

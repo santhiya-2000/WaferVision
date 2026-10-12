@@ -1,0 +1,582 @@
+[
+  {
+    "id": 0,
+    "type": "particle",
+    "position": [
+      421,
+      147
+    ],
+    "size": 18,
+    "severity": 0.9
+  },
+  {
+    "id": 1,
+    "type": "pattern_error",
+    "position": [
+      247,
+      309
+    ],
+    "size": 21,
+    "severity": 0.7
+  },
+  {
+    "id": 2,
+    "type": "particle",
+    "position": [
+      291,
+      285
+    ],
+    "size": 19,
+    "severity": 0.95
+  },
+  {
+    "id": 3,
+    "type": "pattern_error",
+    "position": [
+      177,
+      346
+    ],
+    "size": 25,
+    "severity": 0.8333333333333334
+  },
+  {
+    "id": 4,
+    "type": "pattern_error",
+    "position": [
+      323,
+      337
+    ],
+    "size": 21,
+    "severity": 0.7
+  },
+  {
+    "id": 5,
+    "type": "scratch",
+    "position": [
+      294,
+      260
+    ],
+    "length": 27,
+    "severity": 0.54
+  },
+  {
+    "id": 6,
+    "type": "scratch",
+    "position": [
+      332,
+      137
+    ],
+    "length": 49,
+    "severity": 0.98
+  },
+  {
+    "id": 7,
+    "type": "pattern_error",
+    "position": [
+      317,
+      321
+    ],
+    "size": 16,
+    "severity": 0.5333333333333333
+  },
+  {
+    "id": 8,
+    "type": "scratch",
+    "position": [
+      236,
+      261
+    ],
+    "length": 47,
+    "severity": 0.94
+  },
+  {
+    "id": 9,
+    "type": "particle",
+    "position": [
+      256,
+      434
+    ],
+    "size": 17,
+    "severity": 0.85
+  },
+  {
+    "id": 10,
+    "type": "scratch",
+    "position": [
+      258,
+      335
+    ],
+    "length": 41,
+    "severity": 0.82
+  },
+  {
+    "id": 11,
+    "type": "pattern_error",
+    "position": [
+      201,
+      208
+    ],
+    "size": 27,
+    "severity": 0.9
+  },
+  {
+    "id": 12,
+    "type": "particle",
+    "position": [
+      407,
+      245
+    ],
+    "size": 12,
+    "severity": 0.6
+  },
+  {
+    "id": 13,
+    "type": "particle",
+    "position": [
+      278,
+      249
+    ],
+    "size": 15,
+    "severity": 0.75
+  },
+  {
+    "id": 14,
+    "type": "pattern_error",
+    "position": [
+      188,
+      276
+    ],
+    "size": 17,
+    "severity": 0.5666666666666667
+  },
+  {
+    "id": 15,
+    "type": "pattern_error",
+    "position": [
+      308,
+      309
+    ],
+    "size": 23,
+    "severity": 0.7666666666666667
+  },
+  {
+    "id": 16,
+    "type": "particle",
+    "position": [
+      66,
+      193
+    ],
+    "size": 7,
+    "severity": 0.35
+  },
+  {
+    "id": 17,
+    "type": "scratch",
+    "position": [
+      243,
+      262
+    ],
+    "length": 37,
+    "severity": 0.74
+  },
+  {
+    "id": 18,
+    "type": "scratch",
+    "position": [
+      180,
+      440
+    ],
+    "length": 39,
+    "severity": 0.78
+  },
+  {
+    "id": 19,
+    "type": "scratch",
+    "position": [
+      421,
+      260
+    ],
+    "length": 34,
+    "severity": 0.68
+  },
+  {
+    "id": 20,
+    "type": "scratch",
+    "position": [
+      340,
+      321
+    ],
+    "length": 26,
+    "severity": 0.52
+  },
+  {
+    "id": 21,
+    "type": "scratch",
+    "position": [
+      334,
+      393
+    ],
+    "length": 39,
+    "severity": 0.78
+  },
+  {
+    "id": 22,
+    "type": "pattern_error",
+    "position": [
+      161,
+      319
+    ],
+    "size": 26,
+    "severity": 0.8666666666666667
+  },
+  {
+    "id": 23,
+    "type": "missing_feature",
+    "position": [
+      205,
+      253
+    ],
+    "size": 11,
+    "severity": 0.7333333333333333
+  },
+  {
+    "id": 24,
+    "type": "pattern_error",
+    "position": [
+      241,
+      217
+    ],
+    "size": 10,
+    "severity": 0.3333333333333333
+  },
+  {
+    "id": 25,
+    "type": "missing_feature",
+    "position": [
+      277,
+      368
+    ],
+    "size": 5,
+    "severity": 0.3333333333333333
+  },
+  {
+    "id": 26,
+    "type": "particle",
+    "position": [
+      302,
+      363
+    ],
+    "size": 18,
+    "severity": 0.9
+  },
+  {
+    "id": 27,
+    "type": "scratch",
+    "position": [
+      314,
+      139
+    ],
+    "length": 33,
+    "severity": 0.66
+  },
+  {
+    "id": 28,
+    "type": "scratch",
+    "position": [
+      91,
+      251
+    ],
+    "length": 26,
+    "severity": 0.52
+  },
+  {
+    "id": 29,
+    "type": "missing_feature",
+    "position": [
+      238,
+      191
+    ],
+    "size": 8,
+    "severity": 0.5333333333333333
+  },
+  {
+    "id": 30,
+    "type": "pattern_error",
+    "position": [
+      334,
+      233
+    ],
+    "size": 27,
+    "severity": 0.9
+  },
+  {
+    "id": 31,
+    "type": "particle",
+    "position": [
+      437,
+      325
+    ],
+    "size": 8,
+    "severity": 0.4
+  },
+  {
+    "id": 32,
+    "type": "scratch",
+    "position": [
+      250,
+      237
+    ],
+    "length": 22,
+    "severity": 0.44
+  },
+  {
+    "id": 33,
+    "type": "pattern_error",
+    "position": [
+      239,
+      425
+    ],
+    "size": 19,
+    "severity": 0.6333333333333333
+  },
+  {
+    "id": 34,
+    "type": "pattern_error",
+    "position": [
+      259,
+      253
+    ],
+    "size": 12,
+    "severity": 0.4
+  },
+  {
+    "id": 35,
+    "type": "missing_feature",
+    "position": [
+      245,
+      284
+    ],
+    "size": 7,
+    "severity": 0.4666666666666667
+  },
+  {
+    "id": 36,
+    "type": "missing_feature",
+    "position": [
+      132,
+      337
+    ],
+    "size": 11,
+    "severity": 0.7333333333333333
+  },
+  {
+    "id": 37,
+    "type": "pattern_error",
+    "position": [
+      206,
+      269
+    ],
+    "size": 13,
+    "severity": 0.43333333333333335
+  },
+  {
+    "id": 38,
+    "type": "particle",
+    "position": [
+      268,
+      323
+    ],
+    "size": 5,
+    "severity": 0.25
+  },
+  {
+    "id": 39,
+    "type": "particle",
+    "position": [
+      228,
+      235
+    ],
+    "size": 16,
+    "severity": 0.8
+  },
+  {
+    "id": 40,
+    "type": "particle",
+    "position": [
+      328,
+      297
+    ],
+    "size": 9,
+    "severity": 0.45
+  },
+  {
+    "id": 41,
+    "type": "pattern_error",
+    "position": [
+      171,
+      283
+    ],
+    "size": 19,
+    "severity": 0.6333333333333333
+  },
+  {
+    "id": 42,
+    "type": "missing_feature",
+    "position": [
+      261,
+      146
+    ],
+    "size": 14,
+    "severity": 0.9333333333333333
+  },
+  {
+    "id": 43,
+    "type": "missing_feature",
+    "position": [
+      422,
+      154
+    ],
+    "size": 6,
+    "severity": 0.4
+  },
+  {
+    "id": 44,
+    "type": "scratch",
+    "position": [
+      118,
+      204
+    ],
+    "length": 30,
+    "severity": 0.6
+  },
+  {
+    "id": 45,
+    "type": "particle",
+    "position": [
+      224,
+      292
+    ],
+    "size": 17,
+    "severity": 0.85
+  },
+  {
+    "id": 46,
+    "type": "pattern_error",
+    "position": [
+      99,
+      157
+    ],
+    "size": 28,
+    "severity": 0.9333333333333333
+  },
+  {
+    "id": 47,
+    "type": "pattern_error",
+    "position": [
+      416,
+      314
+    ],
+    "size": 11,
+    "severity": 0.36666666666666664
+  },
+  {
+    "id": 48,
+    "type": "pattern_error",
+    "position": [
+      252,
+      254
+    ],
+    "size": 15,
+    "severity": 0.5
+  },
+  {
+    "id": 49,
+    "type": "missing_feature",
+    "position": [
+      175,
+      158
+    ],
+    "size": 7,
+    "severity": 0.4666666666666667
+  },
+  {
+    "id": 50,
+    "type": "particle",
+    "position": [
+      241,
+      206
+    ],
+    "size": 3,
+    "severity": 0.15
+  },
+  {
+    "id": 51,
+    "type": "pattern_error",
+    "position": [
+      371,
+      258
+    ],
+    "size": 24,
+    "severity": 0.8
+  },
+  {
+    "id": 52,
+    "type": "pattern_error",
+    "position": [
+      176,
+      143
+    ],
+    "size": 14,
+    "severity": 0.4666666666666667
+  },
+  {
+    "id": 53,
+    "type": "pattern_error",
+    "position": [
+      159,
+      334
+    ],
+    "size": 10,
+    "severity": 0.3333333333333333
+  },
+  {
+    "id": 54,
+    "type": "particle",
+    "position": [
+      143,
+      282
+    ],
+    "size": 19,
+    "severity": 0.95
+  },
+  {
+    "id": 55,
+    "type": "scratch",
+    "position": [
+      248,
+      257
+    ],
+    "length": 28,
+    "severity": 0.56
+  },
+  {
+    "id": 56,
+    "type": "particle",
+    "position": [
+      176,
+      424
+    ],
+    "size": 19,
+    "severity": 0.95
+  },
+  {
+    "id": 57,
+    "type": "scratch",
+    "position": [
+      297,
+      220
+    ],
+    "length": 29,
+    "severity": 0.58
+  }
+]
